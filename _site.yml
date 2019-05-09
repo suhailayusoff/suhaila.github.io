@@ -1,0 +1,16 @@
+name: "Suhaila Yusoff"
+output_dir: "."
+navbar:
+    Title: "Suhaila Yusoff" 
+left:
+     - text: "Home"
+       href: index.html
+       
+right:
+    -  icon: fa-envelope fa-lg
+       href: contact.html
+       
+output:
+  html_document:
+    theme: paper
+    css: "styles.css"
